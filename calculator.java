@@ -9,4 +9,7 @@ public class Calculator{
 		return a+b
 	}
 
+	public double subtraction(double a, double b){
+		return a - b;
+	}
 }
